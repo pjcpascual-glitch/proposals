@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Windows / OS temporary files
+[Dd]esktop.ini
+[Tt]humbs.db
+.DS_Store
+
+# Temporary Excel lock files
+~$*.xlsx
+
+# Local scratch / logs
+*.log
+
